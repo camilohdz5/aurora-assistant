@@ -57,7 +57,7 @@ dist/  # Note: dist/ might also be generic, fine.
 downloads/
 eggs/
 .eggs/
-lib/
+backend/lib/
 lib64/
 parts/
 sdist/

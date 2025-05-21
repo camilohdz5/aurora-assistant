@@ -11,4 +11,4 @@
 * Uvicorn
 
 ### Run the project (dev mode)
-``` uvicorn main:app --reload ```
+``` uvicorn app.main:app --reload ```
